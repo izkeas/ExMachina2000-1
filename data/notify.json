@@ -1,0 +1,30 @@
+[
+    {
+        "id": 236469808097394689,
+        "type": "youtube",
+        "discord_channel": 787436287237685248,
+        "yt_channel_page": "https://www.youtube.com/c/UniversoParaleloGeek/videos",
+        "last": {
+            "title": "CYBERPUNK 2077: Novo ERRO grave do JOGO e a CRISE sem fim na CD PROJEKT RED, situa\u00e7\u00e3o t\u00e1 FEIA!",
+            "href": "watch?v=xzF8RqikBBw",
+            "author": "Universo Paralelo",
+            "channel_page": "https://www.youtube.com/c/UniversoParaleloGeek/videos"
+        },
+        "everyone": false,
+        "always": true
+    },
+    {
+        "id": 236469808097394689,
+        "type": "youtube",
+        "discord_channel": 787436287237685248,
+        "yt_channel_page": "https://www.youtube.com/c/Fam%C3%ADliaLobo/videos",
+        "last": {
+            "title": "Tentativa Dois Da Live Do Final De Festa!",
+            "href": "watch?v=McGcX1ntXxE",
+            "author": "Fam\u00edlia Lobo",
+            "channel_page": "https://www.youtube.com/c/Fam%C3%ADliaLobo/videos"
+        },
+        "everyone": false,
+        "always": true
+    }
+]
